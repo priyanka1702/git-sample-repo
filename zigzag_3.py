@@ -1,3 +1,10 @@
+"""
+Python Program for printing a Tree in Zig-zag pattern
+Input : Root
+Output: List of Tree Nodes in Zig-zag pattern
+"""
+
+
 from collections import deque
 
 class Node(object):
